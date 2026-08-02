@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070031620103634944"
+      ]
+    },
+    "author_id": "2046117898377379840",
+    "conversation_id": "2070031626424426704",
+    "created_at": "2026-06-25T06:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T07:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070031626424426704"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EINewVKbkb",
+          "end": 41,
+          "expanded_url": "https://x.com/kawaii_imai/status/2070031626424426704/photo/1",
+          "media_key": "3_2070031620103634944",
+          "start": 18,
+          "url": "https://t.co/EINewVKbkb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070031626424426704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "14:29 已严肃食用4fmph🫡 https://t.co/EINewVKbkb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070031620103634944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLo6yn4agAA7d1H.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070031620103634944"
+          ]
+        },
+        "author_id": "2046117898377379840",
+        "conversation_id": "2070031626424426704",
+        "created_at": "2026-06-25T06:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070031626424426704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EINewVKbkb",
+              "end": 41,
+              "expanded_url": "https://x.com/kawaii_imai/status/2070031626424426704/photo/1",
+              "media_key": "3_2070031620103634944",
+              "start": 18,
+              "url": "https://t.co/EINewVKbkb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070031626424426704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "14:29 已严肃食用4fmph🫡 https://t.co/EINewVKbkb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 287,
+          "like_count": 1258,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 373
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      }
+    ]
+  }
+}

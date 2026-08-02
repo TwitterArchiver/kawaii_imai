@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2082017745378644385",
+    "created_at": "2026-07-28T08:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082017745378644385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008420775204896768",
+          "start": 3,
+          "username": "Yuki312813"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082017745378644385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081918357176283181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki312813: 何时300fo的有点惊讶🤔我想我或许应该也整一个抽奖，那就来吧\n整点什么呢，药我肯定是不给的😡我还要吃呢，那就整点RMB吧\n\n一等奖30r（2名）\n\n二等奖20r（3名）\n\n三等奖10r（4名）\n\n抽奖方式 转发+评论+关注 8.2开奖😇\n因为我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2082017745378644385",
+        "created_at": "2026-07-28T08:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082017745378644385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008420775204896768",
+              "start": 3,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082017745378644385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081918357176283181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki312813: 何时300fo的有点惊讶🤔我想我或许应该也整一个抽奖，那就来吧\n整点什么呢，药我肯定是不给的😡我还要吃呢，那就整点RMB吧\n\n一等奖30r（2名）\n\n二等奖20r（3名）\n\n三等奖10r（4名）\n\n抽奖方式 转发+评论+关注 8.2开奖😇\n因为我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2081918357176283181",
+        "created_at": "2026-07-28T01:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081918357176283181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081918357176283181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 906,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "何时300fo的有点惊讶🤔我想我或许应该也整一个抽奖，那就来吧\n整点什么呢，药我肯定是不给的😡我还要吃呢，那就整点RMB吧\n\n一等奖30r（2名）\n\n二等奖20r（3名）\n\n三等奖10r（4名）\n\n抽奖方式 转发+评论+关注 8.2开奖😇\n因为我太傻了不会用Grok拉我的数据抽奖😭\n所以就把转发数据手动喂给给gork抽🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 296,
+          "like_count": 1421,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 421
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "愿黑星照常升起",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 329,
+          "like_count": 5459,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 3840
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

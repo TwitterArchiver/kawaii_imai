@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2057748305803931994",
+    "created_at": "2026-05-23T06:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T07:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058078540097347781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1850859161283932160",
+          "start": 0,
+          "username": "EUPD_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058078540097347781",
+    "in_reply_to_user_id": "1850859161283932160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057748305803931994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EUPD_official 临时通知你让没有办港澳通行证的大陆人怎么办？？？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3088,
+        "media_key": "3_2057690801585668096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5i4cYaQAAj5DF.jpg",
+        "width": 2470
+      },
+      {
+        "height": 2500,
+        "media_key": "3_2057690801598291968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5i4cba4AAykbH.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2500,
+        "media_key": "3_2057691167412850688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5jNvMaEAA_haD.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2057748305803931994",
+        "created_at": "2026-05-23T06:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058078540097347781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1850859161283932160",
+              "start": 0,
+              "username": "EUPD_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058078540097347781",
+        "in_reply_to_user_id": "1850859161283932160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057748305803931994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EUPD_official 临时通知你让没有办港澳通行证的大陆人怎么办？？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057690801585668096",
+            "3_2057690801598291968",
+            "3_2057691167412850688"
+          ]
+        },
+        "author_id": "1850859161283932160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2057748305803931994",
+        "created_at": "2026-05-22T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057748305803931994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GhYQj00Ka0",
+              "end": 229,
+              "expanded_url": "https://x.com/EUPD_official/status/2057748305803931994/photo/1",
+              "media_key": "3_2057690801585668096",
+              "start": 206,
+              "url": "https://t.co/GhYQj00Ka0"
+            },
+            {
+              "display_url": "pic.x.com/GhYQj00Ka0",
+              "end": 229,
+              "expanded_url": "https://x.com/EUPD_official/status/2057748305803931994/photo/1",
+              "media_key": "3_2057690801598291968",
+              "start": 206,
+              "url": "https://t.co/GhYQj00Ka0"
+            },
+            {
+              "display_url": "pic.x.com/GhYQj00Ka0",
+              "end": 229,
+              "expanded_url": "https://x.com/EUPD_official/status/2057748305803931994/photo/1",
+              "media_key": "3_2057691167412850688",
+              "start": 206,
+              "url": "https://t.co/GhYQj00Ka0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057748305803931994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 669,
+                "start": 659,
+                "tag": "bangdream"
+              },
+              {
+                "end": 683,
+                "start": 670,
+                "tag": "RAISEASUILEN"
+              },
+              {
+                "end": 688,
+                "start": 684,
+                "tag": "RAS"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "asiaworld-expo.kktix.cc/events/raiseas…",
+                "end": 578,
+                "expanded_url": "https://asiaworld-expo.kktix.cc/events/raiseasuilen-2026-hk",
+                "start": 555,
+                "url": "https://t.co/2iV0mEX030"
+              }
+            ]
+          },
+          "text": "RAISE A SUILEN LIVE 2026「Boot IGNITION」香港公演 票務資訊公開！\n\n【演出資訊】\n時間：\nDay1：2026年8月14日（星期五）20:00開演（預定）\nDay2：2026年8月15日（星期六）19:00開演（預定）\n\n場地：亞洲國際博覽館10號展館\n\n聯合主辦｜EUPHORIC PRODUCTION HK / Neon Lit Music\n特別協力｜Bushiroad Music\n協 力｜Live&Life\n\n【票務資訊】\n※本次售票採用實名制抽選方式。\n\n「票價」\nHK$1688 - A\nHK$1488 - B\nHK$988 - C\nHK$788 - D\n（全場座位 All Seated）\n\n「特典」\n特典限定｜購買HK$1688 - A、HK$1488 - B門票之人士，可享特典福利。\n特典內容丨香港演出限定 特製輕便外套×1\n※兩日公演特典一致。\n\n「實名制抽選」\n抽選登記時間｜2026年5月26日（二）11:00 ~2026年5月31日（日）23:59\n抽選結果公佈｜自2026年6月3日（三）11:00 起陸續發送E-MAIL\n付款時間｜2026年6月3日（三）11:00 確認中選後至2026年6月7日（日）23:59截止\n售票平台｜KKTIX（https://t.co/2iV0mEX030）\n\n※每位會員帳號每一場次最多限登記兩張票券，每個證件號碼於同一場次僅限登記一次。\n※請勿經由任何非官方售票渠道購票，以免因無法入場觀演等情況導致財物損失。\n\n#bangdream #RAISEASUILEN #RAS"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 39757,
+          "like_count": 298,
+          "quote_count": 9,
+          "reply_count": 9,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "RAISE A SUILEN LIVE 2026「Boot IGNITION」香港公演 票務資訊公開！\n\n【演出資訊】\n時間：\nDay1：2026年8月14日（星期五）20:00開演（預定）\nDay2：2026年8月15日（星期六）19:00開演（預定）\n\n場地：亞洲國際博覽館10號展館\n\n聯合主辦｜EUPHORIC PRODUCTION HK / Neon Lit Music\n特別協力｜Bushiroad https://t.co/GhYQj00Ka0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 126,
+          "like_count": 725,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 188
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T11:16:46.000Z",
+        "description": "EUPHORIC PRODUCTIONは、二次元IPのグローバル展開に特化し、音楽を軸に中国IPを世界へ発信するとともに、世界中の優れたIPを中国へ展開しています。",
+        "id": "1850859161283932160",
+        "name": "Euphoric Production",
+        "pinned_tweet_id": "1934568734108340249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013547137112420352/2FPP7jdj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2603,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 6,
+          "media_count": 150,
+          "tweet_count": 180
+        },
+        "username": "EUPD_official",
+        "verified": true
+      }
+    ]
+  }
+}

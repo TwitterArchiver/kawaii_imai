@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076257376173436928"
+      ],
+      "media_source_tweet_id": [
+        "2076257392166330538"
+      ]
+    },
+    "author_id": "2046117898377379840",
+    "conversation_id": "2076457912512426365",
+    "created_at": "2026-07-13T00:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T01:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076457912512426365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2007439875726028800",
+          "start": 3,
+          "username": "APeng87500"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W9ZTFaVvFC",
+          "end": 112,
+          "expanded_url": "https://x.com/APeng87500/status/2076257392166330538/photo/1",
+          "media_key": "3_2076257376173436928",
+          "start": 89,
+          "url": "https://t.co/W9ZTFaVvFC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076457912512426365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076257392166330538",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @APeng87500: 250fo庆祝🍾抽奖帖各位求转🥺\n转帖+点赞+关注即可抽！\n一等奖35元*1一份\n二等奖20元*2两份\n三等奖6.4元*5五份\n一星期后开奖！！ https://t.co/W9ZTFaVvFC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076257376173436928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBZFUkaMAA9UZ_.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076257376173436928"
+          ],
+          "media_source_tweet_id": [
+            "2076257392166330538"
+          ]
+        },
+        "author_id": "2046117898377379840",
+        "conversation_id": "2076457912512426365",
+        "created_at": "2026-07-13T00:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076457912512426365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2007439875726028800",
+              "start": 3,
+              "username": "APeng87500"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W9ZTFaVvFC",
+              "end": 112,
+              "expanded_url": "https://x.com/APeng87500/status/2076257392166330538/photo/1",
+              "media_key": "3_2076257376173436928",
+              "start": 89,
+              "url": "https://t.co/W9ZTFaVvFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076457912512426365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076257392166330538",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @APeng87500: 250fo庆祝🍾抽奖帖各位求转🥺\n转帖+点赞+关注即可抽！\n一等奖35元*1一份\n二等奖20元*2两份\n三等奖6.4元*5五份\n一星期后开奖！！ https://t.co/W9ZTFaVvFC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076257376173436928"
+          ]
+        },
+        "author_id": "2007439875726028800",
+        "conversation_id": "2076257392166330538",
+        "created_at": "2026-07-12T10:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076257392166330538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W9ZTFaVvFC",
+              "end": 96,
+              "expanded_url": "https://x.com/APeng87500/status/2076257392166330538/photo/1",
+              "media_key": "3_2076257376173436928",
+              "start": 73,
+              "url": "https://t.co/W9ZTFaVvFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076257392166330538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1371,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "250fo庆祝🍾抽奖帖各位求转🥺\n转帖+点赞+关注即可抽！\n一等奖35元*1一份\n二等奖20元*2两份\n三等奖6.4元*5五份\n一星期后开奖！！ https://t.co/W9ZTFaVvFC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 290,
+          "like_count": 1350,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 395
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T13:12:30.000Z",
+        "description": "出生日期09.30.2012/顺男友跨/🇬🇧English/🇭🇰粤语一点点/🇯🇵日语OK/坐标深圳偶尔香港 /overdose/不割手/轻焦/ADHD/舞萌w4水平/phigros 12.15/东方/贝斯手/vibe coding学习中/药理学也懂一点/逃生舱@hakumeireimaku_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 130,
+                "username": "hakumeireimaku_"
+              }
+            ]
+          }
+        },
+        "id": "2007439875726028800",
+        "location": "幻想乡",
+        "name": "博丽灵梦💊🍕",
+        "pinned_tweet_id": "2039974296567923078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853671457886208/RcGIFvmL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 365,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 343
+        },
+        "url": "",
+        "username": "APeng87500",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2054220631106072769",
+    "created_at": "2026-05-14T02:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T03:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054757041902891172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2053727173895430144",
+          "start": 0,
+          "username": "zylyangnuosxh"
+        },
+        {
+          "end": 28,
+          "id": "1843360729199718404",
+          "start": 15,
+          "username": "longlongp97w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054757041902891172",
+    "in_reply_to_user_id": "2053727173895430144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054220631106072769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zylyangnuosxh @longlongp97w 互fo！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2054220631106072769",
+        "created_at": "2026-05-14T02:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T03:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054757041902891172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2053727173895430144",
+              "start": 0,
+              "username": "zylyangnuosxh"
+            },
+            {
+              "end": 28,
+              "id": "1843360729199718404",
+              "start": 15,
+              "username": "longlongp97w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054757041902891172",
+        "in_reply_to_user_id": "2053727173895430144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054220631106072769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zylyangnuosxh @longlongp97w 互fo！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053727173895430144",
+        "conversation_id": "2054220631106072769",
+        "created_at": "2026-05-12T15:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054220631106072769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054220631106072769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 615,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "所有人，跟我互fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 83,
+          "like_count": 493,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 116
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T06:43:20.000Z",
+        "description": "前世两个号都被封\nod｜餐券｜重度抑郁重度焦虑｜\n我是刻薄逼别来惹我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant56414",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant56414",
+                "start": 0,
+                "url": "https://t.co/PjGFp6c8JZ"
+              }
+            ]
+          }
+        },
+        "id": "2053727173895430144",
+        "location": "🚪52纯绿",
+        "name": "可颂🥐(3.0)",
+        "pinned_tweet_id": "2053732777242284339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054048882070540288/CKTsT1-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 125,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 143
+        },
+        "url": "https://t.co/PjGFp6c8JZ",
+        "username": "zylyangnuosxh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T18:40:31.000Z",
+        "description": "‼️‼️‼️如果我的帖子让您感到不适，请立即拉黑我不要恶评，谢谢‼️‼️‼️双，但是自救成功，目前稳定（这段时间被恶心了应该不稳定了）ps.龙的聊天能力堪比人机，龙喜欢被夸🥰,然后我不是同！想多找互关呀，提问箱：https://t.co/oCgXhmsRO0\n小号：@longrc7x  #碎碎念",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 148,
+                "start": 144,
+                "tag": "碎碎念"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 142,
+                "start": 133,
+                "username": "longrc7x"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jjjjjjjj14864",
+                "end": 129,
+                "expanded_url": "https://ngl.link/jjjjjjjj14864",
+                "start": 106,
+                "url": "https://t.co/oCgXhmsRO0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jjjjjjjj14864",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jjjjjjjj14864",
+                "start": 0,
+                "url": "https://t.co/oCgXhmsRO0"
+              }
+            ]
+          }
+        },
+        "id": "1843360729199718404",
+        "location": "阿美莉卡",
+        "name": "龙long",
+        "pinned_tweet_id": "2045270964162699734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050705580327587841/0FGws5YT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 220,
+          "like_count": 10345,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 1913
+        },
+        "url": "https://t.co/oCgXhmsRO0",
+        "username": "longlongp97w",
+        "verified": false
+      }
+    ]
+  }
+}

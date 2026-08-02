@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2079388939312681276",
+    "created_at": "2026-07-21T12:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T13:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079545877300142124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2027342983457370113",
+          "start": 0,
+          "username": "x_xcherry0719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079545877300142124",
+    "in_reply_to_user_id": "2027342983457370113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079388939312681276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_xcherry0719 蹲蹲喵！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2079388939312681276",
+        "created_at": "2026-07-21T12:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079545877300142124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2027342983457370113",
+              "start": 0,
+              "username": "x_xcherry0719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079545877300142124",
+        "in_reply_to_user_id": "2027342983457370113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079388939312681276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_xcherry0719 蹲蹲喵！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027342983457370113",
+        "conversation_id": "2079388939312681276",
+        "created_at": "2026-07-21T02:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079388939312681276"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079388939312681276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "50fo！！！入乡随俗抽奖，评论关注即可参与捏\n一等奖：QQ人一枚(可折现10r)\n二等奖:    5.2r 两份\n就先这样吧呃呃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 295,
+          "like_count": 1403,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 413
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T11:20:31.000Z",
+        "description": "我只是在装我自设妹我不是霓虹金好吧\n10年/餐券od药物全肯定毒虫/双相/上学中\n同类都会回fo好吧，欢迎来和我玩我是社交孤儿",
+        "id": "2027342983457370113",
+        "location": "DXM星球",
+        "name": "チェリーちゃん🖤",
+        "pinned_tweet_id": "2076986918278168659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050257900237647872/kgPPiKEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 59,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "x_xcherry0719",
+        "verified": false
+      }
+    ]
+  }
+}

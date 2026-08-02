@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2058807784649707781",
+    "created_at": "2026-05-25T09:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T10:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058836018208678004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2050073911635894272",
+          "start": 0,
+          "username": "Lomyral114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058836018208678004",
+    "in_reply_to_user_id": "2050073911635894272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058807784649707781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral114514 阿片🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_2058806883344154624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJZ887bgAAWUMX.jpg",
+        "width": 1079
+      },
+      {
+        "height": 744,
+        "media_key": "3_2058806912574234624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJZ-p0bIAAOTOc.jpg",
+        "width": 1084
+      },
+      {
+        "height": 750,
+        "media_key": "3_2058807683244064768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJargybgAAwdjg.jpg",
+        "width": 1076
+      },
+      {
+        "height": 297,
+        "media_key": "3_2058807682656804864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJaremaoAAaxPN.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2058807784649707781",
+        "created_at": "2026-05-25T09:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058836018208678004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050073911635894272",
+              "start": 0,
+              "username": "Lomyral114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058836018208678004",
+        "in_reply_to_user_id": "2050073911635894272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058807784649707781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral114514 阿片🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058806883344154624",
+            "3_2058806912574234624",
+            "3_2058807683244064768",
+            "3_2058807682656804864"
+          ]
+        },
+        "author_id": "2050073911635894272",
+        "conversation_id": "2058807784649707781",
+        "created_at": "2026-05-25T07:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058807784649707781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bNLQ0qSLTA",
+              "end": 97,
+              "expanded_url": "https://x.com/Lomyral114514/status/2058807784649707781/photo/1",
+              "media_key": "3_2058806883344154624",
+              "start": 74,
+              "url": "https://t.co/bNLQ0qSLTA"
+            },
+            {
+              "display_url": "pic.x.com/bNLQ0qSLTA",
+              "end": 97,
+              "expanded_url": "https://x.com/Lomyral114514/status/2058807784649707781/photo/1",
+              "media_key": "3_2058806912574234624",
+              "start": 74,
+              "url": "https://t.co/bNLQ0qSLTA"
+            },
+            {
+              "display_url": "pic.x.com/bNLQ0qSLTA",
+              "end": 97,
+              "expanded_url": "https://x.com/Lomyral114514/status/2058807784649707781/photo/1",
+              "media_key": "3_2058807683244064768",
+              "start": 74,
+              "url": "https://t.co/bNLQ0qSLTA"
+            },
+            {
+              "display_url": "pic.x.com/bNLQ0qSLTA",
+              "end": 97,
+              "expanded_url": "https://x.com/Lomyral114514/status/2058807784649707781/photo/1",
+              "media_key": "3_2058807682656804864",
+              "start": 74,
+              "url": "https://t.co/bNLQ0qSLTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058807784649707781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 413,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又来还债，，，\n\np1 阿片🤤\np2 900-1500mg\n\n本条仅作疑难解答，无任何不良导向，也不涉及任何销售或管制行为。所提及物质皆合法非列管 https://t.co/bNLQ0qSLTA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 206,
+          "like_count": 759,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n碎碎念推。不键政，不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 518,
+          "like_count": 4140,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 1277
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

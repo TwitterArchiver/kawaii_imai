@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2069635165773832639",
+    "created_at": "2026-06-24T04:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T05:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069635165773832639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1569279849126297602",
+          "start": 3,
+          "username": "shkuiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069635165773832639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069162037297778831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shkuiiiiii: 梨好我系苟子座標上海妹子可以一起掛壁愛你們\n灌注此人轉帖抽:\n1个20r\n6个5.2r \n（鵝不知道有沒有這麼多轉帖然後我想要fofo   10天后開\n戒o割中 喜歡的會回fo\n我喜歡互動我會互動我會努力的…\n然後希望醒來有人轉hiahiahia…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1240,
+        "media_key": "3_2069161427806666752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcjWw9bQAAqi18.jpg",
+        "width": 1260
+      },
+      {
+        "height": 932,
+        "media_key": "3_2069161432084819968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcjXA5asAAKeik.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2069161436547600384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcjXRhbUAA_2sP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2069635165773832639",
+        "created_at": "2026-06-24T04:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069635165773832639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1569279849126297602",
+              "start": 3,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069635165773832639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069162037297778831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shkuiiiiii: 梨好我系苟子座標上海妹子可以一起掛壁愛你們\n灌注此人轉帖抽:\n1个20r\n6个5.2r \n（鵝不知道有沒有這麼多轉帖然後我想要fofo   10天后開\n戒o割中 喜歡的會回fo\n我喜歡互動我會互動我會努力的…\n然後希望醒來有人轉hiahiahia…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069161427806666752",
+            "3_2069161432084819968",
+            "3_2069161436547600384"
+          ]
+        },
+        "author_id": "1569279849126297602",
+        "conversation_id": "2069162037297778831",
+        "created_at": "2026-06-22T20:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T21:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069162037297778831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qvHK1vWoW1",
+              "end": 147,
+              "expanded_url": "https://x.com/shkuiiiiii/status/2069162037297778831/photo/1",
+              "media_key": "3_2069161427806666752",
+              "start": 124,
+              "url": "https://t.co/qvHK1vWoW1"
+            },
+            {
+              "display_url": "pic.x.com/qvHK1vWoW1",
+              "end": 147,
+              "expanded_url": "https://x.com/shkuiiiiii/status/2069162037297778831/photo/1",
+              "media_key": "3_2069161432084819968",
+              "start": 124,
+              "url": "https://t.co/qvHK1vWoW1"
+            },
+            {
+              "display_url": "pic.x.com/qvHK1vWoW1",
+              "end": 147,
+              "expanded_url": "https://x.com/shkuiiiiii/status/2069162037297778831/photo/1",
+              "media_key": "3_2069161436547600384",
+              "start": 124,
+              "url": "https://t.co/qvHK1vWoW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069162037297778831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 724,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "梨好我系苟子座標上海妹子可以一起掛壁愛你們\n灌注此人轉帖抽:\n1个20r\n6个5.2r \n（鵝不知道有沒有這麼多轉帖然後我想要fofo   10天后開\n戒o割中 喜歡的會回fo\n我喜歡互動我會互動我會努力的…\n然後希望醒來有人轉hiahiahia https://t.co/qvHK1vWoW1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 287,
+          "like_count": 1249,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 然后贱人死开 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuureikoinu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuureikoinu",
+                "start": 0,
+                "url": "https://t.co/x3tImtkrnU"
+              }
+            ]
+          }
+        },
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2066441052245176824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063646077333757952/dJ2jH7Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 92,
+          "like_count": 13020,
+          "listed_count": 3,
+          "media_count": 298,
+          "tweet_count": 2337
+        },
+        "url": "https://t.co/x3tImtkrnU",
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

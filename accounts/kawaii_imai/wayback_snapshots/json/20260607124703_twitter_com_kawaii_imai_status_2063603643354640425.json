@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063603620017569792"
+      ]
+    },
+    "author_id": "2046117898377379840",
+    "conversation_id": "2061024603645051238",
+    "created_at": "2026-06-07T12:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063603643354640425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1959504781053132800",
+          "start": 0,
+          "username": "Jun125315"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pbBIPDIegc",
+          "end": 44,
+          "expanded_url": "https://x.com/kawaii_imai/status/2063603643354640425/photo/1",
+          "media_key": "3_2063603620017569792",
+          "start": 21,
+          "url": "https://t.co/pbBIPDIegc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063603643354640425",
+    "in_reply_to_user_id": "1959504781053132800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063496539855618385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jun125315 😨我以为我放上去了 https://t.co/pbBIPDIegc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1201,
+        "media_key": "3_2063603620017569792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNkjxhbgAA-JVy.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063603620017569792"
+          ]
+        },
+        "author_id": "2046117898377379840",
+        "conversation_id": "2061024603645051238",
+        "created_at": "2026-06-07T12:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063603643354640425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1959504781053132800",
+              "start": 0,
+              "username": "Jun125315"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pbBIPDIegc",
+              "end": 44,
+              "expanded_url": "https://x.com/kawaii_imai/status/2063603643354640425/photo/1",
+              "media_key": "3_2063603620017569792",
+              "start": 21,
+              "url": "https://t.co/pbBIPDIegc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063603643354640425",
+        "in_reply_to_user_id": "1959504781053132800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063496539855618385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jun125315 😨我以为我放上去了 https://t.co/pbBIPDIegc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959504781053132800",
+        "conversation_id": "2061024603645051238",
+        "created_at": "2026-06-07T05:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063496539855618385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046117898377379840",
+              "start": 0,
+              "username": "kawaii_imai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063496539855618385",
+        "in_reply_to_user_id": "2046117898377379840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061024603645051238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaii_imai 中奖名单呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 274,
+          "like_count": 1144,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 315
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T06:35:30.000Z",
+        "description": "",
+        "id": "1959504781053132800",
+        "location": "Hong Kong , China",
+        "name": "ne1iger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046819325164826624/ITt5ihG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 15,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "username": "Jun125315",
+        "verified": true
+      }
+    ]
+  }
+}

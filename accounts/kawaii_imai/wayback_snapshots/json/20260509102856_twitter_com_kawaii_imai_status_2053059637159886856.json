@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2051632479136837783",
+    "created_at": "2026-05-09T10:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053059637159886856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1912429174024990721",
+          "start": 0,
+          "username": "LYdidh65493"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053059637159886856",
+    "in_reply_to_user_id": "1912429174024990721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053035387392827472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LYdidh65493 老大我问到了应该是118/t（25mg），但是我问的那个现在不做了T.T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2051632479136837783",
+        "created_at": "2026-05-09T10:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053059637159886856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1912429174024990721",
+              "start": 0,
+              "username": "LYdidh65493"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053059637159886856",
+        "in_reply_to_user_id": "1912429174024990721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053035387392827472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LYdidh65493 老大我问到了应该是118/t（25mg），但是我问的那个现在不做了T.T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912429174024990721",
+        "conversation_id": "2051632479136837783",
+        "created_at": "2026-05-09T08:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053035387392827472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046117898377379840",
+              "start": 0,
+              "username": "kawaii_imai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053035387392827472",
+        "in_reply_to_user_id": "2046117898377379840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051632479136837783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaii_imai 蹲蹲…同想问"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 77,
+          "like_count": 427,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T08:54:01.000Z",
+        "description": "",
+        "id": "1912429174024990721",
+        "name": "我的灵魂已经逐渐喜欢上了这里",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016036705363734528/yBnnXHM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "LYdidh65493",
+        "verified": false
+      }
+    ]
+  }
+}

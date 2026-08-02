@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2057639483600982260",
+    "created_at": "2026-05-22T04:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T05:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057681535134998911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885218193494736896",
+          "start": 0,
+          "username": "Xnmurrr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057681535134998911",
+    "in_reply_to_user_id": "1885218193494736896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057639483600982260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xnmurrr_ 出现！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2057639483600982260",
+        "created_at": "2026-05-22T04:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057681535134998911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885218193494736896",
+              "start": 0,
+              "username": "Xnmurrr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057681535134998911",
+        "in_reply_to_user_id": "1885218193494736896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057639483600982260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xnmurrr_ 出现！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885218193494736896",
+        "conversation_id": "2057639483600982260",
+        "created_at": "2026-05-22T01:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057639483600982260"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "餐券"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057639483600982260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#餐券 谁来跟我互fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 121,
+          "like_count": 704,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T06:47:07.000Z",
+        "description": "别管我",
+        "id": "1885218193494736896",
+        "name": "🧊",
+        "pinned_tweet_id": "2050347559349297479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051783757959712768/1FJvP0KP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 130,
+          "like_count": 2184,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 229
+        },
+        "username": "Xnmurrr_",
+        "verified": false
+      }
+    ]
+  }
+}

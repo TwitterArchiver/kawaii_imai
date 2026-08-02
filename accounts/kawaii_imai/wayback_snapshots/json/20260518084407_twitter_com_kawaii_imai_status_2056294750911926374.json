@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2055958021361271140",
+    "created_at": "2026-05-18T08:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056294750911926374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782699039139459072",
+          "start": 0,
+          "username": "KiloMaclaren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056294750911926374",
+    "in_reply_to_user_id": "1782699039139459072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056294153018032349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiloMaclaren 12天，5.3-5.15"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2055958021361271140",
+        "created_at": "2026-05-18T08:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056294750911926374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782699039139459072",
+              "start": 0,
+              "username": "KiloMaclaren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056294750911926374",
+        "in_reply_to_user_id": "1782699039139459072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056294153018032349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiloMaclaren 12天，5.3-5.15"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782699039139459072",
+        "conversation_id": "2055958021361271140",
+        "created_at": "2026-05-18T08:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056294153018032349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046117898377379840",
+              "start": 0,
+              "username": "kawaii_imai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056294153018032349",
+        "in_reply_to_user_id": "2046117898377379840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056256611451289905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaii_imai 你清关花了多少天啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 87,
+          "like_count": 614,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 160
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T09:12:44.000Z",
+        "description": "none",
+        "id": "1782699039139459072",
+        "name": "Kilo Maclaren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933402940670423041/EQG5idmC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 100,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 61
+        },
+        "username": "KiloMaclaren",
+        "verified": false
+      }
+    ]
+  }
+}

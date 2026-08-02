@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2058387409537241594",
+    "created_at": "2026-05-24T08:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T09:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058461195796197448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2051536884799803392",
+          "start": 0,
+          "username": "Dyzilidz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058461195796197448",
+    "in_reply_to_user_id": "2051536884799803392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058387409537241594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dyzilidz 恭喜喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2058387409537241594",
+        "created_at": "2026-05-24T08:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058461195796197448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2051536884799803392",
+              "start": 0,
+              "username": "Dyzilidz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058461195796197448",
+        "in_reply_to_user_id": "2051536884799803392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058387409537241594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dyzilidz 恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051536884799803392",
+        "conversation_id": "2058387409537241594",
+        "created_at": "2026-05-24T03:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T04:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058387409537241594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058387409537241594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1037,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "🎉50fo转发抽奖奖励来啦😄\n感激各位让我达到又一个目标\n此次奖品为 ⚠️普瑞巴林*3盒\n                      \n另外还有  ❤️录硝西泮*10粒\n\n感谢各位宝宝参与本次抽奖\n🎉每个人概率都是百分之五十哦🎉\n将使用Gork抽奖🎟️\n转发➕关注➕评论参与此次抽奖\n转发➕关注➕评论参与此次抽奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 171,
+          "like_count": 749,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 198
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T05:38:59.000Z",
+        "description": "购买私信哦宝宝们我很温柔的 08/女/od/割手\n没有TG的也不要着急呀宝宝们 私信我就可以啦\n⬇️是tg频道哦\nTg购买频道 https://t.co/EQNgit63OK\n双相情感障碍 抑郁症 我需要钱买抗抑郁药吃",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+a_Fi9g9IfoQzZ…",
+                "end": 87,
+                "expanded_url": "https://t.me/+a_Fi9g9IfoQzZWI1",
+                "start": 64,
+                "url": "https://t.co/EQNgit63OK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+a_Fi9g9IfoQzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+a_Fi9g9IfoQzZWI1",
+                "start": 0,
+                "url": "https://t.co/EQNgit63OK"
+              }
+            ]
+          }
+        },
+        "id": "2051536884799803392",
+        "location": "温柔の日",
+        "name": "Misaaa",
+        "pinned_tweet_id": "2056957023091392666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054315647761551360/Rh5Coj7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 62,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/EQNgit63OK",
+        "username": "Dyzilidz",
+        "verified": false
+      }
+    ]
+  }
+}

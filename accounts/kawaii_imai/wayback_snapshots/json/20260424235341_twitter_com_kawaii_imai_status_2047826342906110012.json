@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2047632270295785480",
+    "created_at": "2026-04-24T23:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T00:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047826342906110012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042888433014837256",
+          "start": 0,
+          "username": "2yjjj0846ooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047826342906110012",
+    "in_reply_to_user_id": "2042888433014837256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047745357149266136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2yjjj0846ooo 好嘟 ٩(๑′0`๑)۶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2047632270295785480",
+        "created_at": "2026-04-24T23:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T00:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047826342906110012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042888433014837256",
+              "start": 0,
+              "username": "2yjjj0846ooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047826342906110012",
+        "in_reply_to_user_id": "2042888433014837256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047745357149266136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2yjjj0846ooo 好嘟 ٩(๑′0`๑)۶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042888433014837256",
+        "conversation_id": "2047632270295785480",
+        "created_at": "2026-04-24T18:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T19:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047745357149266136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046117898377379840",
+              "start": 0,
+              "username": "kawaii_imai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047745357149266136",
+        "in_reply_to_user_id": "2046117898377379840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047632270295785480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaii_imai 可以试试打心理咨询的电话呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 47,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 33
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T08:53:06.000Z",
+        "description": "08 E/INFP. 🔸 \n擅长用ai进行玄学分析5r一次欢迎私信\n互fo呀^-^｜神人女子下凡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2s%E2%80%86n00",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2s%E2%80%86n00",
+                "start": 0,
+                "url": "https://t.co/Q5qDq2nXwT"
+              }
+            ]
+          }
+        },
+        "id": "2042888433014837256",
+        "location": "0.1km",
+        "name": "我只是氏祢",
+        "pinned_tweet_id": "2047754119017083269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042890404060893188/aGAqs8M3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 116,
+          "like_count": 1573,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 380
+        },
+        "url": "https://t.co/Q5qDq2nXwT",
+        "username": "2yjjj0846ooo",
+        "verified": false
+      }
+    ]
+  }
+}

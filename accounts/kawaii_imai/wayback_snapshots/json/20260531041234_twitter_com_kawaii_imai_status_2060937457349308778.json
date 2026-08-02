@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060937450856574977"
+      ]
+    },
+    "author_id": "2046117898377379840",
+    "conversation_id": "2060881878349951056",
+    "created_at": "2026-05-31T04:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T05:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060937457349308778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1430213743380676609",
+          "start": 0,
+          "username": "papattyalim"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VERnMJUTen",
+          "end": 36,
+          "expanded_url": "https://x.com/kawaii_imai/status/2060937457349308778/photo/1",
+          "media_key": "3_2060937450856574977",
+          "start": 13,
+          "url": "https://t.co/VERnMJUTen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060937457349308778",
+    "in_reply_to_user_id": "1430213743380676609",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060881878349951056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@papattyalim https://t.co/VERnMJUTen"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 923,
+        "media_key": "3_2060937450856574977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnrsTaa8AEgQTC.jpg",
+        "width": 968
+      },
+      {
+        "height": 690,
+        "media_key": "3_2060881871576199171",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJm5JKdXcAM6zqQ.jpg",
+        "width": 556
+      },
+      {
+        "height": 694,
+        "media_key": "3_2060881871567732737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJm5JKbWQAEUCvt.jpg",
+        "width": 557
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060937450856574977"
+          ]
+        },
+        "author_id": "2046117898377379840",
+        "conversation_id": "2060881878349951056",
+        "created_at": "2026-05-31T04:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060937457349308778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1430213743380676609",
+              "start": 0,
+              "username": "papattyalim"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VERnMJUTen",
+              "end": 36,
+              "expanded_url": "https://x.com/kawaii_imai/status/2060937457349308778/photo/1",
+              "media_key": "3_2060937450856574977",
+              "start": 13,
+              "url": "https://t.co/VERnMJUTen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060937457349308778",
+        "in_reply_to_user_id": "1430213743380676609",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060881878349951056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@papattyalim https://t.co/VERnMJUTen"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060881871576199171",
+            "3_2060881871567732737"
+          ]
+        },
+        "author_id": "1430213743380676609",
+        "conversation_id": "2060881878349951056",
+        "created_at": "2026-05-31T00:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T01:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060881878349951056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GaE3ujGpBg",
+              "end": 65,
+              "expanded_url": "https://x.com/papattyalim/status/2060881878349951056/photo/1",
+              "media_key": "3_2060881871576199171",
+              "start": 42,
+              "url": "https://t.co/GaE3ujGpBg"
+            },
+            {
+              "display_url": "pic.x.com/GaE3ujGpBg",
+              "end": 65,
+              "expanded_url": "https://x.com/papattyalim/status/2060881878349951056/photo/1",
+              "media_key": "3_2060881871567732737",
+              "start": 42,
+              "url": "https://t.co/GaE3ujGpBg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060881878349951056",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 19538,
+          "like_count": 1010,
+          "quote_count": 7,
+          "reply_count": 189,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "Zeytin’e merhaba demezsen 1 yıl kötü şans https://t.co/GaE3ujGpBg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 265,
+          "like_count": 991,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 263
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T17:01:55.000Z",
+        "description": "biraz sinirli biraz bebeksi / ücretli RT, reklam için dm",
+        "id": "1430213743380676609",
+        "location": "El Salvador",
+        "name": "Papatya'",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748398074131521536/eJrpjZb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102786,
+          "following_count": 76149,
+          "like_count": 359168,
+          "listed_count": 14,
+          "media_count": 309,
+          "tweet_count": 638
+        },
+        "username": "papattyalim",
+        "verified": true
+      }
+    ]
+  }
+}

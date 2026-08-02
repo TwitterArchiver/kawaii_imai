@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2061668764610068749",
+    "created_at": "2026-06-02T05:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T06:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061679874599985638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1161138897566388224",
+          "start": 0,
+          "username": "Oatzo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061679874599985638",
+    "in_reply_to_user_id": "1161138897566388224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061675306931617887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oatzo1 说是断货了很快就发…不确定再看看qaq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2061668764610068749",
+        "created_at": "2026-06-02T05:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T06:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061679874599985638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1161138897566388224",
+              "start": 0,
+              "username": "Oatzo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061679874599985638",
+        "in_reply_to_user_id": "1161138897566388224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061675306931617887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oatzo1 说是断货了很快就发…不确定再看看qaq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1161138897566388224",
+        "conversation_id": "2061668764610068749",
+        "created_at": "2026-06-02T05:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T06:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061675306931617887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046117898377379840",
+              "start": 0,
+              "username": "kawaii_imai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061675306931617887",
+        "in_reply_to_user_id": "2046117898377379840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061668764610068749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaii_imai 上次说买的pr，是真的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 275,
+          "like_count": 1057,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 289
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-13T04:54:20.000Z",
+        "description": "所在的高度让他们目空一切",
+        "id": "1161138897566388224",
+        "name": "Oatzo",
+        "pinned_tweet_id": "1975975549521768592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025954287923429376/2_bXnbGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 90,
+          "like_count": 1019,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 521
+        },
+        "username": "Oatzo1",
+        "verified": false
+      }
+    ]
+  }
+}

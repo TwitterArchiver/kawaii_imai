@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2054420349325094979",
+    "created_at": "2026-05-13T09:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T10:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054492065556558026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687876238474629120",
+          "start": 0,
+          "username": "AgNo3_xq0719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054492065556558026",
+    "in_reply_to_user_id": "1687876238474629120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054488551954514261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AgNo3_xq0719 我靠😨摸摸宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2054420349325094979",
+        "created_at": "2026-05-13T09:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054492065556558026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687876238474629120",
+              "start": 0,
+              "username": "AgNo3_xq0719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054492065556558026",
+        "in_reply_to_user_id": "1687876238474629120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054488551954514261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AgNo3_xq0719 我靠😨摸摸宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687876238474629120",
+        "conversation_id": "2054420349325094979",
+        "created_at": "2026-05-13T09:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054488551954514261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046117898377379840",
+              "start": 0,
+              "username": "kawaii_imai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054488551954514261",
+        "in_reply_to_user_id": "2046117898377379840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054488326632350098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaii_imai 直接上门了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 82,
+          "like_count": 485,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 114
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T17:20:44.000Z",
+        "description": "09｜od｜自伤｜双相情感障碍｜istp-t｜爱人@llzvkeai @NiimiyaHoshi @fngkli131022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "llzvkeai"
+              },
+              {
+                "end": 48,
+                "start": 35,
+                "username": "NiimiyaHoshi"
+              },
+              {
+                "end": 62,
+                "start": 49,
+                "username": "fngkli131022"
+              }
+            ]
+          }
+        },
+        "id": "1687876238474629120",
+        "location": "普瑞巴林星球",
+        "name": "硝酸银#浅（三世）",
+        "pinned_tweet_id": "2051206545862791329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052320556314406912/LyRw4OOT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 261,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 128
+        },
+        "username": "AgNo3_xq0719",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2062526302834643235",
+    "created_at": "2026-06-04T13:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062526302834643235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1946593949180993536",
+          "start": 3,
+          "username": "RogerDisboard"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062526302834643235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062202269588926683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RogerDisboard: 再来一次抽奖吧（也算做是520fo抽奖）\n\n一等奖：11.45r*1\n二等奖：8.88r*2\n（抱歉作为学生的Roger真的没什么钱，只能抽这点了…）\n\n点赞+关注+评论+转发参与抽奖喵\n\n立个远大点的目标\n达到600fo或下周三开奖（忘了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2062526302834643235",
+        "created_at": "2026-06-04T13:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062526302834643235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1946593949180993536",
+              "start": 3,
+              "username": "RogerDisboard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062526302834643235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062202269588926683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RogerDisboard: 再来一次抽奖吧（也算做是520fo抽奖）\n\n一等奖：11.45r*1\n二等奖：8.88r*2\n（抱歉作为学生的Roger真的没什么钱，只能抽这点了…）\n\n点赞+关注+评论+转发参与抽奖喵\n\n立个远大点的目标\n达到600fo或下周三开奖（忘了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2062202269588926683",
+        "created_at": "2026-06-03T15:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062202269588926683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062202269588926683",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1939,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "再来一次抽奖吧（也算做是520fo抽奖）\n\n一等奖：11.45r*1\n二等奖：8.88r*2\n（抱歉作为学生的Roger真的没什么钱，只能抽这点了…）\n\n点赞+关注+评论+转发参与抽奖喵\n\n立个远大点的目标\n达到600fo或下周三开奖（忘了提醒我）\n\n总之还是谢谢大家的陪伴，在推上的每一天都很开心！\nありがとうございます！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 276,
+          "like_count": 1116,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 305
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2062202269588926683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 1016,
+          "like_count": 7753,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 1870
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

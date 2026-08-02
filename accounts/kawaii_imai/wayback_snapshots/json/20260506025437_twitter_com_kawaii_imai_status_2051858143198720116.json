@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2051858143198720116",
+    "created_at": "2026-05-06T02:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T03:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051858143198720116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2051682020347326464",
+          "start": 3,
+          "username": "PhonyR22701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051858143198720116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051683599741771998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PhonyR22701: 转发关注评论抽奖\n抽1t 4-ho-met\n六周目堂堂复活！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2051858143198720116",
+        "created_at": "2026-05-06T02:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T03:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051858143198720116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2051682020347326464",
+              "start": 3,
+              "username": "PhonyR22701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051858143198720116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051683599741771998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PhonyR22701: 转发关注评论抽奖\n抽1t 4-ho-met\n六周目堂堂复活！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051682020347326464",
+        "conversation_id": "2051683599741771998",
+        "created_at": "2026-05-05T15:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051683599741771998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051683599741771998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1298,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "转发关注评论抽奖\n抽1t 4-ho-met\n六周目堂堂复活！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 66,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 69
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T15:14:54.000Z",
+        "description": "对象@Sunset__3000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Sunset__3000"
+              }
+            ]
+          }
+        },
+        "id": "2051682020347326464",
+        "name": "异世界优泠#六周目",
+        "pinned_tweet_id": "2051683400168423461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051682089570033664/vi9Qt5M2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 8,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "username": "PhonyR22701",
+        "verified": false
+      }
+    ]
+  }
+}

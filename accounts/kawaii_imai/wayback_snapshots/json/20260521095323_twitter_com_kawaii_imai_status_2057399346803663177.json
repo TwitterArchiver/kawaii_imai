@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057399337987272704"
+      ]
+    },
+    "author_id": "2046117898377379840",
+    "conversation_id": "2057399346803663177",
+    "created_at": "2026-05-21T09:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T10:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057399346803663177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6rQ4tB57dk",
+          "end": 41,
+          "expanded_url": "https://x.com/kawaii_imai/status/2057399346803663177/photo/1",
+          "media_key": "3_2057399337987272704",
+          "start": 18,
+          "url": "https://t.co/6rQ4tB57dk"
+        },
+        {
+          "display_url": "x.com/kawaii_imai/st…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/kawaii_imai/status/2056710323563032964",
+          "start": 42,
+          "url": "https://t.co/KRnJs4oGwr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057399346803663177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056710323563032964",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "忘了说了已开奖喵！虽然都还没回我w https://t.co/6rQ4tB57dk https://t.co/KRnJs4oGwr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 730,
+        "media_key": "3_2057399337987272704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1ZzB3a8AAt99Y.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057399337987272704"
+          ]
+        },
+        "author_id": "2046117898377379840",
+        "conversation_id": "2057399346803663177",
+        "created_at": "2026-05-21T09:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057399346803663177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6rQ4tB57dk",
+              "end": 41,
+              "expanded_url": "https://x.com/kawaii_imai/status/2057399346803663177/photo/1",
+              "media_key": "3_2057399337987272704",
+              "start": 18,
+              "url": "https://t.co/6rQ4tB57dk"
+            },
+            {
+              "display_url": "x.com/kawaii_imai/st…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/kawaii_imai/status/2056710323563032964",
+              "start": 42,
+              "url": "https://t.co/KRnJs4oGwr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057399346803663177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056710323563032964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "忘了说了已开奖喵！虽然都还没回我w https://t.co/6rQ4tB57dk https://t.co/KRnJs4oGwr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2056710323563032964",
+        "created_at": "2026-05-19T12:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056710323563032964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056710323563032964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1382,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "才发现fo数破50了！剧烈庆祝！\n关转评抽3个5.2小红包喵，5.21晚上看心情开🥰\n请继续和小兰互fo吧🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 121,
+          "like_count": 686,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      }
+    ]
+  }
+}

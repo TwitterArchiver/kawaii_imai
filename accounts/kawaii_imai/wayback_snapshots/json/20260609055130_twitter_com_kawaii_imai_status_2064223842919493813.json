@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2063961551305134539",
+    "created_at": "2026-06-09T05:51:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064223842919493813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1438866373615112192",
+          "start": 0,
+          "username": "whatisnickidk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064223842919493813",
+    "in_reply_to_user_id": "1438866373615112192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064192149806293044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whatisnickidk 我还有一点dxm但是我只有pr有瘾😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2063961551305134539",
+        "created_at": "2026-06-09T05:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064223842919493813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1438866373615112192",
+              "start": 0,
+              "username": "whatisnickidk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064223842919493813",
+        "in_reply_to_user_id": "1438866373615112192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064192149806293044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whatisnickidk 我还有一点dxm但是我只有pr有瘾😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438866373615112192",
+        "conversation_id": "2063961551305134539",
+        "created_at": "2026-06-09T03:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064192149806293044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046117898377379840",
+              "start": 0,
+              "username": "kawaii_imai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064192149806293044",
+        "in_reply_to_user_id": "2046117898377379840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063961551305134539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaii_imai pr不好搞要自己去医院开 右美可以先吃点日新化痰止咳顶着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 280,
+          "like_count": 1156,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 327
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-17T14:04:25.000Z",
+        "description": "我也不知道这是谁的小号/其实是@zzzChumo/负能树洞号 不营业/可能是梗小鬼/双相/放飞自我/07下半/苦逼打工/无证磕糖中/天残/家长半管不管党/人形自走虎式坦克/钱钱钱钱钱钱/想毁灭世界/在学日语/精神状态良好/这个人懒死了，什么都没写_(:з」∠)_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "zzzChumo"
+              }
+            ]
+          }
+        },
+        "id": "1438866373615112192",
+        "location": "地狱",
+        "name": "💊pr80有售 | 我也不知道我的昵称是什么🍥",
+        "pinned_tweet_id": "2064163968881660391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836760952475422720/nN582z5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 23,
+          "like_count": 1738,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 210
+        },
+        "username": "whatisnickidk",
+        "verified": false
+      }
+    ]
+  }
+}

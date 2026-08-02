@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058405579123736576",
+        "3_2058405579144765440",
+        "3_2058405579098603520",
+        "3_2058405579111194624"
+      ],
+      "media_source_tweet_id": [
+        "2058405597876470015",
+        "2058405597876470015",
+        "2058405597876470015",
+        "2058405597876470015"
+      ]
+    },
+    "author_id": "2046117898377379840",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058480523383869496",
+    "created_at": "2026-05-24T09:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T10:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058480523383869496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2014859848899559427",
+          "start": 3,
+          "username": "xuen12011"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hUydU6o4MP",
+          "end": 90,
+          "expanded_url": "https://x.com/xuen12011/status/2058405597876470015/photo/1",
+          "media_key": "3_2058405579123736576",
+          "start": 67,
+          "url": "https://t.co/hUydU6o4MP"
+        },
+        {
+          "display_url": "pic.x.com/hUydU6o4MP",
+          "end": 90,
+          "expanded_url": "https://x.com/xuen12011/status/2058405597876470015/photo/1",
+          "media_key": "3_2058405579144765440",
+          "start": 67,
+          "url": "https://t.co/hUydU6o4MP"
+        },
+        {
+          "display_url": "pic.x.com/hUydU6o4MP",
+          "end": 90,
+          "expanded_url": "https://x.com/xuen12011/status/2058405597876470015/photo/1",
+          "media_key": "3_2058405579098603520",
+          "start": 67,
+          "url": "https://t.co/hUydU6o4MP"
+        },
+        {
+          "display_url": "pic.x.com/hUydU6o4MP",
+          "end": 90,
+          "expanded_url": "https://x.com/xuen12011/status/2058405597876470015/photo/1",
+          "media_key": "3_2058405579111194624",
+          "start": 67,
+          "url": "https://t.co/hUydU6o4MP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058480523383869496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058405597876470015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuen12011: 求餐券妹互of互转qaq\n我想破700fo\np2素我的自设啦\n【od 自伤全肯定】\n非同类不互fo/转 https://t.co/hUydU6o4MP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 672,
+        "media_key": "3_2058405579123736576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJDs9-NaQAAbHst.jpg",
+        "width": 672
+      },
+      {
+        "height": 896,
+        "media_key": "3_2058405579144765440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJDs9-SbIAA6X7x.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058405579098603520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJDs9-HawAAJ6Zk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058405579111194624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJDs9-Ka4AAsnzt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058405579123736576",
+            "3_2058405579144765440",
+            "3_2058405579098603520",
+            "3_2058405579111194624"
+          ],
+          "media_source_tweet_id": [
+            "2058405597876470015",
+            "2058405597876470015",
+            "2058405597876470015",
+            "2058405597876470015"
+          ]
+        },
+        "author_id": "2046117898377379840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058480523383869496",
+        "created_at": "2026-05-24T09:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058480523383869496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2014859848899559427",
+              "start": 3,
+              "username": "xuen12011"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hUydU6o4MP",
+              "end": 90,
+              "expanded_url": "https://x.com/xuen12011/status/2058405597876470015/photo/1",
+              "media_key": "3_2058405579123736576",
+              "start": 67,
+              "url": "https://t.co/hUydU6o4MP"
+            },
+            {
+              "display_url": "pic.x.com/hUydU6o4MP",
+              "end": 90,
+              "expanded_url": "https://x.com/xuen12011/status/2058405597876470015/photo/1",
+              "media_key": "3_2058405579144765440",
+              "start": 67,
+              "url": "https://t.co/hUydU6o4MP"
+            },
+            {
+              "display_url": "pic.x.com/hUydU6o4MP",
+              "end": 90,
+              "expanded_url": "https://x.com/xuen12011/status/2058405597876470015/photo/1",
+              "media_key": "3_2058405579098603520",
+              "start": 67,
+              "url": "https://t.co/hUydU6o4MP"
+            },
+            {
+              "display_url": "pic.x.com/hUydU6o4MP",
+              "end": 90,
+              "expanded_url": "https://x.com/xuen12011/status/2058405597876470015/photo/1",
+              "media_key": "3_2058405579111194624",
+              "start": 67,
+              "url": "https://t.co/hUydU6o4MP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058480523383869496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058405597876470015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuen12011: 求餐券妹互of互转qaq\n我想破700fo\np2素我的自设啦\n【od 自伤全肯定】\n非同类不互fo/转 https://t.co/hUydU6o4MP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058405579123736576",
+            "3_2058405579144765440",
+            "3_2058405579098603520",
+            "3_2058405579111194624"
+          ]
+        },
+        "author_id": "2014859848899559427",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058405597876470015",
+        "created_at": "2026-05-24T04:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058405597876470015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hUydU6o4MP",
+              "end": 75,
+              "expanded_url": "https://x.com/xuen12011/status/2058405597876470015/photo/1",
+              "media_key": "3_2058405579123736576",
+              "start": 52,
+              "url": "https://t.co/hUydU6o4MP"
+            },
+            {
+              "display_url": "pic.x.com/hUydU6o4MP",
+              "end": 75,
+              "expanded_url": "https://x.com/xuen12011/status/2058405597876470015/photo/1",
+              "media_key": "3_2058405579144765440",
+              "start": 52,
+              "url": "https://t.co/hUydU6o4MP"
+            },
+            {
+              "display_url": "pic.x.com/hUydU6o4MP",
+              "end": 75,
+              "expanded_url": "https://x.com/xuen12011/status/2058405597876470015/photo/1",
+              "media_key": "3_2058405579098603520",
+              "start": 52,
+              "url": "https://t.co/hUydU6o4MP"
+            },
+            {
+              "display_url": "pic.x.com/hUydU6o4MP",
+              "end": 75,
+              "expanded_url": "https://x.com/xuen12011/status/2058405597876470015/photo/1",
+              "media_key": "3_2058405579111194624",
+              "start": 52,
+              "url": "https://t.co/hUydU6o4MP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058405597876470015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "求餐券妹互of互转qaq\n我想破700fo\np2素我的自设啦\n【od 自伤全肯定】\n非同类不互fo/转 https://t.co/hUydU6o4MP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 172,
+          "like_count": 749,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 199
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T00:36:48.000Z",
+        "description": "｜小恩 entp｜od 重抑 重焦｜碎碎念 不键政｜\n｜非同类不回fo｜刻薄 温良 一体机｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/enlyn5202",
+                "end": 23,
+                "expanded_url": "https://ngl.link/enlyn5202",
+                "start": 0,
+                "url": "https://t.co/X3Za98WAcQ"
+              }
+            ]
+          }
+        },
+        "id": "2014859848899559427",
+        "location": "下次见🚪52",
+        "name": "不是说好下次见吗",
+        "pinned_tweet_id": "2030656519981961405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058258745893978112/UUso0Efx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 136,
+          "like_count": 4405,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1310
+        },
+        "url": "https://t.co/X3Za98WAcQ",
+        "username": "xuen12011",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2052354778051870908",
+    "created_at": "2026-05-07T11:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052354778051870908"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052354778051870908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "噻奈普汀给我的感觉就是很放松，单纯的放松，欣快接近于无…起效快但是时间太短了，我吃了大概半个小时起效，又一个小时后就结束了…结合价格超级亏啊！但是对于我这种事情又多又分散的人来说挺灵活的（）算是优点吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2052354778051870908",
+        "created_at": "2026-05-07T11:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052354778051870908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052354778051870908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "噻奈普汀给我的感觉就是很放松，单纯的放松，欣快接近于无…起效快但是时间太短了，我吃了大概半个小时起效，又一个小时后就结束了…结合价格超级亏啊！但是对于我这种事情又多又分散的人来说挺灵活的（）算是优点吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 73,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      }
+    ]
+  }
+}

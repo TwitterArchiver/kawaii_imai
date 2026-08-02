@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2047855746512252946",
+    "created_at": "2026-04-25T01:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T02:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047855746512252946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sunset__3000/s…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/sunset__3000/status/2047739203887546566",
+          "start": 42,
+          "url": "https://t.co/WEO0MmNaM1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047855746512252946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047739203887546566",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家好，我是普瑞和愈美的药代，提供无偿代吃服务☺️把药邮给我，我可以代你们全吃了😋 https://t.co/WEO0MmNaM1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2047855746512252946",
+        "created_at": "2026-04-25T01:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047855746512252946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sunset__3000/s…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/sunset__3000/status/2047739203887546566",
+              "start": 42,
+              "url": "https://t.co/WEO0MmNaM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047855746512252946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047739203887546566",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家好，我是普瑞和愈美的药代，提供无偿代吃服务☺️把药邮给我，我可以代你们全吃了😋 https://t.co/WEO0MmNaM1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777129646867542016",
+        "conversation_id": "2047739203887546566",
+        "created_at": "2026-04-24T18:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T19:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047739203887546566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047739203887546566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是普瑞和愈美的药代，提供无偿代吃服务☺️把药邮给我，我可以代你们全吃了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 48,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 34
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T00:21:51.000Z",
+        "description": "o割餐券女 | 精神病 | 家里蹲备考 | 极端悲观主义 | 爱好生化药理板绘 | 同类互fo呀♡漏回提醒我🥹",
+        "id": "1777129646867542016",
+        "location": "宛平南路600号",
+        "name": "日落三千次💊",
+        "pinned_tweet_id": "2034272198798811213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040999312478621696/QZAhsYwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 554,
+          "like_count": 3533,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 692
+        },
+        "username": "Sunset__3000",
+        "verified": false
+      }
+    ]
+  }
+}

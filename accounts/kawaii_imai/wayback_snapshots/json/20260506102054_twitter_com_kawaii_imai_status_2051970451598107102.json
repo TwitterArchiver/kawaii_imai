@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2051967518999544218",
+    "created_at": "2026-05-06T10:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T11:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051970451598107102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1965006467444125697",
+          "start": 0,
+          "username": "imai_lan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051970451598107102",
+    "in_reply_to_user_id": "1965006467444125697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051967518999544218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imai_lan 我不行了，什么时候发出来的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2051967505879695360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoNkyaagAAU7bZ.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2051967518999544218",
+        "created_at": "2026-05-06T10:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051970451598107102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1965006467444125697",
+              "start": 0,
+              "username": "imai_lan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051970451598107102",
+        "in_reply_to_user_id": "1965006467444125697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051967518999544218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imai_lan 我不行了，什么时候发出来的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051967505879695360"
+          ]
+        },
+        "author_id": "1965006467444125697",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2051967518999544218",
+        "created_at": "2026-05-06T10:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051967518999544218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2051123147123146752/BlNGzaWd?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2051123147123146752/BlNGzaWd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/eMFd2orSDO"
+            },
+            {
+              "display_url": "pic.x.com/y2cLHwYm1a",
+              "end": 64,
+              "expanded_url": "https://x.com/imai_lan/status/2051967518999544218/photo/1",
+              "media_key": "3_2051967505879695360",
+              "start": 41,
+              "url": "https://t.co/y2cLHwYm1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051967518999544218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/eMFd2orSDO https://t.co/y2cLHwYm1a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 68,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T10:57:13.000Z",
+        "description": "🔪💊🏳️‍🌈/不是地雷妹/求互fo/喜欢所有人！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/7LInP81fxU"
+              }
+            ]
+          }
+        },
+        "id": "1965006467444125697",
+        "location": "Tokyo-to, Japan",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038842017405718528/3xY2NQnL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 59,
+          "like_count": 1384,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 173
+        },
+        "url": "https://t.co/7LInP81fxU",
+        "username": "imai_lan",
+        "verified": false
+      }
+    ]
+  }
+}
