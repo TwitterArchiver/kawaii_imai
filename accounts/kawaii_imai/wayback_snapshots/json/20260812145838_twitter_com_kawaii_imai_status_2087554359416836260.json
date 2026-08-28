@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2086007350859903265",
+    "created_at": "2026-08-12T14:58:38.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087554359416836260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2038184435477319680",
+          "start": 0,
+          "username": "MIMIsamaOvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087554359416836260",
+    "in_reply_to_user_id": "2038184435477319680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086007350859903265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MIMIsamaOvo 蹲蹲喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2086007350859903265",
+        "created_at": "2026-08-12T14:58:38.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087554359416836260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038184435477319680",
+              "start": 0,
+              "username": "MIMIsamaOvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087554359416836260",
+        "in_reply_to_user_id": "2038184435477319680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086007350859903265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MIMIsamaOvo 蹲蹲喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038184435477319680",
+        "conversation_id": "2086007350859903265",
+        "created_at": "2026-08-08T08:31:23.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T09:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086007350859903265"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086007350859903265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4462,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "不知不觉百fo了捏，感谢大家支持🎉🎉🎉\n纪念一下发个抽奖吧，虽然最近也没什么钱的说🤓\n一等奖：18.8米支付宝口令红包一份\n二等奖：8.88米支付宝口令红包一份\n三等奖：6.66米支付宝口令红包一份\n8月15号开奖，抽奖方式关注转帖评论即可参与喵！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087554359416836260",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046117898377379840/1776667808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 287,
+          "like_count": 1457,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 437
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-29T09:21:29.000Z",
+        "description": "梦到什么发什么，关注mimi谢谢喵\n戒毒中day0\n二号机@MIMIsamowo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "MIMIsamowo"
+              }
+            ]
+          }
+        },
+        "id": "2038184435477319680",
+        "is_identity_verified": false,
+        "location": "戒毒所",
+        "most_recent_tweet_id": "2087411635388547467",
+        "name": "MIMI",
+        "pinned_tweet_id": "2086007350859903265",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038184435477319680/1775595884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069136182697672704/2H0_ygY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 58,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 293
+        },
+        "url": "",
+        "username": "MIMIsamaOvo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

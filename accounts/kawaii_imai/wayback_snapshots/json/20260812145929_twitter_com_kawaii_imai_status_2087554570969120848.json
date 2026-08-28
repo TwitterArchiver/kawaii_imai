@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2087554570969120848",
+    "created_at": "2026-08-12T14:59:29.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087554570969120848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057835400790462464",
+          "start": 3,
+          "username": "kimika8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087554570969120848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086817943468569046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kimika8964: 抽奖因为来到推特一直没抽过奖呀，所以小抽一下，仅限我互关参与，同类fo我我都会回，截止到8.13开奖，希望大家帮我转转我想跟更多人互关❤️\n一等奖13.14 一人\n二等奖5.2，一人\n三等奖3.3，一人\n小抽一下因为我也很穷，我微信还有22全抽了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2087554570969120848",
+        "created_at": "2026-08-12T14:59:29.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087554570969120848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057835400790462464",
+              "start": 3,
+              "username": "kimika8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087554570969120848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086817943468569046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kimika8964: 抽奖因为来到推特一直没抽过奖呀，所以小抽一下，仅限我互关参与，同类fo我我都会回，截止到8.13开奖，希望大家帮我转转我想跟更多人互关❤️\n一等奖13.14 一人\n二等奖5.2，一人\n三等奖3.3，一人\n小抽一下因为我也很穷，我微信还有22全抽了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057835400790462464",
+        "conversation_id": "2086817943468569046",
+        "created_at": "2026-08-10T14:12:23.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086817943468569046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086817943468569046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1265,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖因为来到推特一直没抽过奖呀，所以小抽一下，仅限我互关参与，同类fo我我都会回，截止到8.13开奖，希望大家帮我转转我想跟更多人互关❤️\n一等奖13.14 一人\n二等奖5.2，一人\n三等奖3.3，一人\n小抽一下因为我也很穷，我微信还有22全抽了吧。\n关注➕转发➕评论，爱你们"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087554570969120848",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046117898377379840/1776667808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 288,
+          "like_count": 1457,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 439
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T14:46:19.000Z",
+        "description": "步此苦旅。\n\n09｜oder｜c-ptsd焦虑抑郁障碍｜友一切｜\n我的宝宝OvO @xiaotunsalutee  @AngelIlIIl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "xiaotunsalutee"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "AngelIlIIl"
+              }
+            ]
+          }
+        },
+        "id": "2057835400790462464",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2087232095139885205",
+        "name": "Curse分享阿片不好体验",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057835400790462464/1785942687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085020979290640384/FjX4cCxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 225,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 282
+        },
+        "url": "",
+        "username": "kimika8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2087892593635934566",
+    "created_at": "2026-08-15T01:08:24.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T02:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088432584921579926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597251393592532995",
+          "start": 0,
+          "username": "mianmian0519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088432584921579926",
+    "in_reply_to_user_id": "1597251393592532995",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087892593635934566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mianmian0519 蹲蹲喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2087892593635934566",
+        "created_at": "2026-08-15T01:08:24.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T02:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088432584921579926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597251393592532995",
+              "start": 0,
+              "username": "mianmian0519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088432584921579926",
+        "in_reply_to_user_id": "1597251393592532995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087892593635934566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mianmian0519 蹲蹲喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597251393592532995",
+        "conversation_id": "2087892593635934566",
+        "created_at": "2026-08-13T13:22:40.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T14:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087892593635934566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087892593635934566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1813,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 46,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "200fo了！🎉\n搞个小福利\n转发关注评论抽一人送橙普一盒\n一人送玉米片一盒\n三人5.2小红包\n欢迎同好找我互fo呀🥳"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088432584921579926",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046117898377379840/1776667808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 290,
+          "like_count": 1460,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 444
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T15:29:51.000Z",
+        "description": "intp\n只回关同好",
+        "id": "1597251393592532995",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088216291224039463",
+        "name": "minaz",
+        "pinned_tweet_id": "2082123492582195367",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063250363445137408/15-qQaZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 162,
+          "like_count": 1309,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 420
+        },
+        "url": "",
+        "username": "mianmian0519",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

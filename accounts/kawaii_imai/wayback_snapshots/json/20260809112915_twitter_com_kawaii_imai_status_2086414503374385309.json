@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086182998609899520"
+      ],
+      "media_source_tweet_id": [
+        "2086183004897190012"
+      ]
+    },
+    "author_id": "2046117898377379840",
+    "conversation_id": "2086414503374385309",
+    "created_at": "2026-08-09T11:29:15.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T12:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086414503374385309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1944391113571553280",
+          "start": 3,
+          "username": "Die_Leaves"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NFEYhtDHL0",
+          "end": 130,
+          "expanded_url": "https://x.com/Die_Leaves/status/2086183004897190012/photo/1",
+          "media_key": "3_2086182998609899520",
+          "start": 107,
+          "url": "https://t.co/NFEYhtDHL0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086414503374385309",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086182998609899520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086183004897190012",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Die_Leaves: 我来百fo抽奖了（虽然还没到）\n一等奖：13.88 一份\n二等奖：6.88 一份\n三等奖：3.88 两份\n关注➕评论➕转发参与  8月11号晚上10点开奖  \n不要嫌少😭😭真没钱了 https://t.co/NFEYhtDHL0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 469,
+        "media_key": "3_2086182998609899520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPOcYliaMAAKizM.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086182998609899520"
+          ]
+        },
+        "author_id": "1944391113571553280",
+        "conversation_id": "2086183004897190012",
+        "created_at": "2026-08-08T20:09:22.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T21:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086183004897190012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NFEYhtDHL0",
+              "end": 114,
+              "expanded_url": "https://x.com/Die_Leaves/status/2086183004897190012/photo/1",
+              "media_key": "3_2086182998609899520",
+              "start": 91,
+              "url": "https://t.co/NFEYhtDHL0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086183004897190012",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086182998609899520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1401,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 35,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "我来百fo抽奖了（虽然还没到）\n一等奖：13.88 一份\n二等奖：6.88 一份\n三等奖：3.88 两份\n关注➕评论➕转发参与  8月11号晚上10点开奖  \n不要嫌少😭😭真没钱了 https://t.co/NFEYhtDHL0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086182998609899520"
+          ],
+          "media_source_tweet_id": [
+            "2086183004897190012"
+          ]
+        },
+        "author_id": "2046117898377379840",
+        "conversation_id": "2086414503374385309",
+        "created_at": "2026-08-09T11:29:15.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086414503374385309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1944391113571553280",
+              "start": 3,
+              "username": "Die_Leaves"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NFEYhtDHL0",
+              "end": 130,
+              "expanded_url": "https://x.com/Die_Leaves/status/2086183004897190012/photo/1",
+              "media_key": "3_2086182998609899520",
+              "start": 107,
+              "url": "https://t.co/NFEYhtDHL0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086414503374385309",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086182998609899520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086183004897190012",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Die_Leaves: 我来百fo抽奖了（虽然还没到）\n一等奖：13.88 一份\n二等奖：6.88 一份\n三等奖：3.88 两份\n关注➕评论➕转发参与  8月11号晚上10点开奖  \n不要嫌少😭😭真没钱了 https://t.co/NFEYhtDHL0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086414503374385309",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046117898377379840/1776667808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 286,
+          "like_count": 1453,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 433
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-13T13:39:11.000Z",
+        "description": "⊹✿无痛去死✿⊹  | 全肯定回fo | enby | 💊 | 🔪🩸 | 双相\n被家长查获了 暂时不o不割。。。（并不\n发病乱说话🈶  随意称呼  都可以来找我互动w",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/leaf81697",
+                "end": 23,
+                "expanded_url": "https://ngl.link/leaf81697",
+                "start": 0,
+                "url": "https://t.co/aPqLDgbx7O"
+              }
+            ]
+          }
+        },
+        "id": "1944391113571553280",
+        "is_identity_verified": false,
+        "location": "漩涡",
+        "most_recent_tweet_id": "2086288566741873039",
+        "name": "绘黎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1944391113571553280/1781882160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058204238782861313/w4xLXcpz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 115,
+          "like_count": 2295,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 304
+        },
+        "url": "https://t.co/aPqLDgbx7O",
+        "username": "Die_Leaves",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

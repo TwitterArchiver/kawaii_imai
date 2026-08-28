@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2087911328560386413",
+    "created_at": "2026-08-14T02:55:36.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T03:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088097176648045006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2082275840851845120",
+          "start": 0,
+          "username": "Mercyxax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088097176648045006",
+    "in_reply_to_user_id": "2082275840851845120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087911328560386413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercyxax 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2087911328560386413",
+        "created_at": "2026-08-14T02:55:36.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T03:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088097176648045006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2082275840851845120",
+              "start": 0,
+              "username": "Mercyxax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088097176648045006",
+        "in_reply_to_user_id": "2082275840851845120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087911328560386413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyxax 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082275840851845120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2087911328560386413",
+        "created_at": "2026-08-13T14:37:06.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087911328560386413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087911328560386413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 4341,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 42,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "pr/2.5r/400mg/t\n\ndpt/450r/g\ndpt/250r/0.5g\n\n以上为合法研究化学品出售，非违法物质，望审核周知。目前只有这些，以后还会上新。\n\n需要请私信。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088097176648045006",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046117898377379840/1776667808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 289,
+          "like_count": 1463,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 442
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T01:24:46.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR｜💖:@liyfn130024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "liyfn130024"
+              }
+            ]
+          }
+        },
+        "id": "2082275840851845120",
+        "is_identity_verified": false,
+        "location": "💊🔪🩸",
+        "most_recent_tweet_id": "2088067140217983117",
+        "name": "Mercy",
+        "pinned_tweet_id": "2087911328560386413",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082275840851845120/1786200645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086102773620498433/HZK3v4ox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 350,
+          "like_count": 1280,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "Mercyxax",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
