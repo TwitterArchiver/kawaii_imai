@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2099707065560432962",
+    "created_at": "2026-09-15T03:49:09.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T04:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099707065560432962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuganqwq/statu…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/yuganqwq/status/2099387804320985252",
+          "start": 71,
+          "url": "https://t.co/8SMDvyf56y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099707065560432962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099387804320985252",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "女孩，你的手腕怎么了，我擦，自残，人生不如意十之八九，中间省略，女孩那个我们药片也吃完了，原生家庭也聊完了，我们来做点什么吧，可以看看腿吗？ https://t.co/8SMDvyf56y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2099707065560432962",
+        "created_at": "2026-09-15T03:49:09.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099707065560432962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuganqwq/statu…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/yuganqwq/status/2099387804320985252",
+              "start": 71,
+              "url": "https://t.co/8SMDvyf56y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099707065560432962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099387804320985252",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女孩，你的手腕怎么了，我擦，自残，人生不如意十之八九，中间省略，女孩那个我们药片也吃完了，原生家庭也聊完了，我们来做点什么吧，可以看看腿吗？ https://t.co/8SMDvyf56y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2099387804320985252",
+        "created_at": "2026-09-14T06:40:31.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T07:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099387804320985252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/toskamxkl/stat…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/toskamxkl/status/2099368697332670569",
+              "start": 71,
+              "url": "https://t.co/kWpdzyjqdZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099387804320985252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5222,
+          "like_count": 52,
+          "quote_count": 10,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099368697332670569",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女孩，你的手腕怎么了，我擦，自残，人生不如意十之八九，中间省略，女孩那个我们药片也吃完了，原生家庭也聊完了，我们来做点什么吧，可以看看腿吗？ https://t.co/kWpdzyjqdZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099707065560432962",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046117898377379840/1776667808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 301,
+          "like_count": 1712,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 532
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2099701771153097065",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 450,
+          "like_count": 5665,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1342
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

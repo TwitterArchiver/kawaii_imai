@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2099799036580831686",
+    "created_at": "2026-09-16T03:21:22.000Z",
+    "display_text_range": [
+      11,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T04:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100062461789651042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2087636528633982976",
+          "start": 0,
+          "username": "67De_dian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100062461789651042",
+    "in_reply_to_user_id": "2087636528633982976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099799036580831686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@67De_dian 我刚才看1688好像还有😟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1151,
+        "media_key": "3_2099798629259395072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSP7umTbwAAZKsc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2099799036580831686",
+        "created_at": "2026-09-16T03:21:22.000Z",
+        "display_text_range": [
+          11,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T04:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100062461789651042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2087636528633982976",
+              "start": 0,
+              "username": "67De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100062461789651042",
+        "in_reply_to_user_id": "2087636528633982976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099799036580831686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@67De_dian 我刚才看1688好像还有😟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099798629259395072"
+          ]
+        },
+        "author_id": "2087636528633982976",
+        "conversation_id": "2099799036580831686",
+        "created_at": "2026-09-15T09:54:37.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T10:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099799036580831686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AfXbVmheAy",
+              "end": 121,
+              "expanded_url": "https://x.com/67De_dian/status/2099799036580831686/photo/1",
+              "media_key": "3_2099798629259395072",
+              "start": 98,
+              "url": "https://t.co/AfXbVmheAy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099799036580831686",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099798629259395072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5443,
+          "like_count": 81,
+          "quote_count": 4,
+          "reply_count": 9,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "急报：\n各类化工网上普瑞巴林相关内容\n工业级/试剂级/医药级均已禁售\n\n也许之后更多人的获取会更加难呢😔\n让我们为普瑞巴林默哀\nR.I.P\n\n图片来源：我弟弟小煜刚刚拍的\n昨天还是可以询价购买的 https://t.co/AfXbVmheAy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100062461789651042",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046117898377379840/1776667808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 300,
+          "like_count": 1725,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 534
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T20:25:09.000Z",
+        "description": "可以叫我6点。700fo前世@6De_dian\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n永远偏爱：@Korewoizontoyo\n\n｜双相｜ODer｜oc｜同人｜画手｜负能｜\n发什么随心情\n不见证不争议\n查属性回fo\n药理学爱好正在学习中…\n会尽力回答您的问题，可以私信我哦\npr有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "6De_dian"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2087636528633982976",
+        "is_identity_verified": false,
+        "location": "逝去",
+        "most_recent_tweet_id": "2099971302014726528",
+        "name": "绝望_6De点（pr有售）",
+        "pinned_tweet_id": "2087667609223524719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087636528633982976/1786566851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 462,
+          "like_count": 4453,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1138
+        },
+        "url": "",
+        "username": "67De_dian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

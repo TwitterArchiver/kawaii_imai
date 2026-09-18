@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2099190215218999354",
+    "created_at": "2026-09-14T08:18:03.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T09:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099412345487593970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1486975640628723718",
+          "start": 0,
+          "username": "sh0p_ass1stant"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099412345487593970",
+    "in_reply_to_user_id": "1486975640628723718",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099190215218999354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sh0p_ass1stant 蹲蹲喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2099190215218999354",
+        "created_at": "2026-09-14T08:18:03.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T09:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099412345487593970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1486975640628723718",
+              "start": 0,
+              "username": "sh0p_ass1stant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099412345487593970",
+        "in_reply_to_user_id": "1486975640628723718",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099190215218999354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sh0p_ass1stant 蹲蹲喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486975640628723718",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2099190215218999354",
+        "created_at": "2026-09-13T17:35:23.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T18:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099190215218999354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099190215218999354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1190,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "100fo了该抽个奖了，但我是穷逼只能抽点小钱了😢\n一等奖52r x1；\n二等奖10rx2；\n三等奖5rx5；\n安慰奖3rx1；（只是想凑一个100r总奖金的整数）\n点赞转发评论参与好吧各位，都来玩都来玩😋\n过段时候有机会写一写互关ID\n周四grok开奖，会公布中奖信息并@中奖人，\n中奖的话最好用收款码，我不怎么用支付宝"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099412345487593970",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046117898377379840/1776667808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 300,
+          "like_count": 1687,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 529
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-28T08:13:24.000Z",
+        "description": "希望和很多人成为朋友，欢迎互fo!😘分身@Sh0p_asslstant",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "Sh0p_asslstant"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keai87621",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keai87621",
+                "start": 0,
+                "url": "https://t.co/Ci4TMetGKe"
+              }
+            ]
+          }
+        },
+        "id": "1486975640628723718",
+        "is_identity_verified": false,
+        "location": "我的小棺材",
+        "most_recent_tweet_id": "2099348594205839813",
+        "name": "店员🍵",
+        "pinned_tweet_id": "2076999311133708755",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1486975640628723718/1777708739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039660133039620096/uQy2fFRF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 475,
+          "like_count": 11224,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 2319
+        },
+        "url": "https://t.co/Ci4TMetGKe",
+        "username": "sh0p_ass1stant",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

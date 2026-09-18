@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2059158743548592296",
+    "created_at": "2026-09-06T14:16:45.000Z",
+    "display_text_range": [
+      9,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096603515498148321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1688368138553819137",
+          "start": 0,
+          "username": "YangPhC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096603515498148321",
+    "in_reply_to_user_id": "1688368138553819137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096561585661628663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YangPhC 结果是被骗了😢后来在贵贵药商那里买了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2059158743548592296",
+        "created_at": "2026-09-06T14:16:45.000Z",
+        "display_text_range": [
+          9,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096603515498148321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1688368138553819137",
+              "start": 0,
+              "username": "YangPhC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096603515498148321",
+        "in_reply_to_user_id": "1688368138553819137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096561585661628663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangPhC 结果是被骗了😢后来在贵贵药商那里买了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688368138553819137",
+        "conversation_id": "2059158743548592296",
+        "created_at": "2026-09-06T11:30:08.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096561585661628663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046117898377379840",
+              "start": 0,
+              "username": "kawaii_imai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096561585661628663",
+        "in_reply_to_user_id": "2046117898377379840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059158743548592296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaii_imai 蹲蹲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096603515498148321",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046117898377379840/1776667808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 293,
+          "like_count": 1597,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 504
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-07T01:55:24.000Z",
+        "description": "istj 1w9  09男高 顺直\n键政 🍬\n随便活活\n欢迎所有",
+        "id": "1688368138553819137",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096562676860137847",
+        "name": "young",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093692462548017152/qwl-pLpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 51,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "YangPhC",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
