@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2107344858696564774",
+    "created_at": "2026-10-06T07:17:29.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T08:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107369638627799352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1811393690008756225",
+          "start": 0,
+          "username": "_korekuni_ryuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107369638627799352",
+    "in_reply_to_user_id": "1811393690008756225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107344858696564774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_korekuni_ryuji 蹲蹲喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2107344858696564774",
+        "created_at": "2026-10-06T07:17:29.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T08:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107369638627799352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811393690008756225",
+              "start": 0,
+              "username": "_korekuni_ryuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107369638627799352",
+        "in_reply_to_user_id": "1811393690008756225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107344858696564774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_korekuni_ryuji 蹲蹲喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811393690008756225",
+        "conversation_id": "2107344858696564774",
+        "created_at": "2026-10-06T05:39:01.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107344858696564774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107344858696564774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 640,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "一百粉丝啦我也来抽个奖好了，因为我是没有💊嗑的疯癫欧弟妹所以忍痛割爱抛弃毛爷爷\n一等奖:一杯奶茶（可以折20）\n二等奖:一个嗯嗯是什么呢（可以折13.14）\n三等奖:5.2两个！\n参与奖:到底有什么用啊?！物语的香吻一枚。（?）\n就转关评赞就好\n虽然不多也是我扣扣搜搜扣出来的桀桀桀桀，10.10开奖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107369638627799352",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046117898377379840/1776667808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 318,
+          "like_count": 2081,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 622
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T13:34:50.000Z",
+        "description": "我是物语\n前世:@Mikatsuki_iryu\n地雷系/重力系/病娇全肯定bot\n想骚扰我🚪68纯绿，不打钱别逼我骂你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "Mikatsuki_iryu"
+              }
+            ]
+          }
+        },
+        "id": "1811393690008756225",
+        "is_identity_verified": false,
+        "location": "Kasukabe-shi, Saitama",
+        "most_recent_tweet_id": "2107354886434062688",
+        "name": "♪物語炸薯條♪🐈‍⬛",
+        "pinned_tweet_id": "2105995622876881388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811393690008756225/1763210288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106793773917462528/mEjJpC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 116,
+          "like_count": 1027,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 888
+        },
+        "url": "",
+        "username": "_korekuni_ryuji",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

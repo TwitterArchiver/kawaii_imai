@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2105306879132152148",
+    "created_at": "2026-10-02T03:59:22.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T04:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105870227288576371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1819726141864964096",
+          "start": 0,
+          "username": "Harukawaiiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105870227288576371",
+    "in_reply_to_user_id": "1819726141864964096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105306879132152148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Harukawaiiko 蹲蹲！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2105306879132152148",
+        "created_at": "2026-10-02T03:59:22.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T04:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105870227288576371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1819726141864964096",
+              "start": 0,
+              "username": "Harukawaiiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105870227288576371",
+        "in_reply_to_user_id": "1819726141864964096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105306879132152148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Harukawaiiko 蹲蹲！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819726141864964096",
+        "conversation_id": "2105306879132152148",
+        "created_at": "2026-09-30T14:40:49.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T15:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105306879132152148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105306879132152148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 415,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "100fo抽奖\n\n参与条件：关注点赞评论该推文\n\n1人 52元\n2人 20元\n3人 10元\n\n2026/10/3 UTC+8 16:00开奖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105870227288576371",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046117898377379840/1776667808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 303,
+          "like_count": 1984,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 591
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-03T13:25:06.000Z",
+        "description": "僕はいいこなの？ he/they🏳️‍🌈 中文/Eng/日本語勉強中\nsub @Harukawaruiko dom 暂无\n📷@Barbital_Hiball",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "Harukawaruiko"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "Barbital_Hiball"
+              }
+            ]
+          }
+        },
+        "id": "1819726141864964096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105843625875964277",
+        "name": "葉瑠歌",
+        "pinned_tweet_id": "2099909115523059920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819726141864964096/1781188539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003412040296407040/iZnA93pW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 583,
+          "like_count": 2864,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1611
+        },
+        "url": "",
+        "username": "Harukawaiiko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2100782012907098112"
+      ]
+    },
+    "author_id": "2046117898377379840",
+    "conversation_id": "2100782014177935408",
+    "created_at": "2026-09-18T03:00:37.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T04:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100782014177935408"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2100782014177935408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小兰下午吃什么"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 300,
+        "end_datetime": "2026-09-18T08:00:37.000Z",
+        "id": "2100782012907098112",
+        "options": [
+          {
+            "label": "ym",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "pr",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "snpt",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "雪尘",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2100782012907098112"
+          ]
+        },
+        "author_id": "2046117898377379840",
+        "conversation_id": "2100782014177935408",
+        "created_at": "2026-09-18T03:00:37.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T04:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100782014177935408"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100782014177935408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小兰下午吃什么"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100782014177935408",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046117898377379840/1776667808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 300,
+          "like_count": 1752,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 545
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

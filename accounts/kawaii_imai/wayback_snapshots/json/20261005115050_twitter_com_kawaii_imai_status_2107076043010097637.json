@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2107059442172985796",
+    "created_at": "2026-10-05T11:50:50.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T12:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107076043010097637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2098055160480280576",
+          "start": 0,
+          "username": "Y_0102_Zero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107076043010097637",
+    "in_reply_to_user_id": "2098055160480280576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107059442172985796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y_0102_Zero 好萌…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2107059429015502849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT3HYxMbQAE3djN.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2107059442172985796",
+        "created_at": "2026-10-05T11:50:50.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T12:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107076043010097637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2098055160480280576",
+              "start": 0,
+              "username": "Y_0102_Zero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107076043010097637",
+        "in_reply_to_user_id": "2098055160480280576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107059442172985796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y_0102_Zero 好萌…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107059429015502849"
+          ]
+        },
+        "author_id": "2098055160480280576",
+        "conversation_id": "2107059442172985796",
+        "created_at": "2026-10-05T10:44:52.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T11:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107059442172985796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CMOOIgLaTq",
+              "end": 159,
+              "expanded_url": "https://x.com/Y_0102_Zero/status/2107059442172985796/photo/1",
+              "media_key": "3_2107059429015502849",
+              "start": 136,
+              "url": "https://t.co/CMOOIgLaTq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107059442172985796",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107059429015502849"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "虽然还没到50fo但马上50fo了所以我开一个抽奖贴 我是季屿/Shima 来找我玩！因为手边没有药了所以只能抽点米了🥺\n一等奖:绿中南海一包(折现20) 一份\n二等奖:10r 一份\n三等奖:5.2r 两份\n关注然后转赞评就好🥺 10.11开奖(贴上一张家里猫的睡颜照) https://t.co/CMOOIgLaTq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107076043010097637",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046117898377379840/1776667808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 316,
+          "like_count": 2053,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 617
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-10T14:27:56.000Z",
+        "description": "もう二度と顔も見たくないってくらいに\n最低最悪な僕になれたかな？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shimakwaii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shimakwaii",
+                "start": 0,
+                "url": "https://t.co/pzP4rIUIMN"
+              }
+            ]
+          }
+        },
+        "id": "2098055160480280576",
+        "is_identity_verified": false,
+        "location": "幸せ？",
+        "most_recent_tweet_id": "2107074575339225540",
+        "name": "下手くそな恋も終わり",
+        "pinned_tweet_id": "2098065080181289460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2098055160480280576/1790395497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106409794399862784/AUs487VA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 47,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/pzP4rIUIMN",
+        "username": "Y_0102_Zero",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

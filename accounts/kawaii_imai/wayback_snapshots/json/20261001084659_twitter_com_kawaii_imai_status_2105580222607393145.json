@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2104931426705760482",
+    "created_at": "2026-10-01T08:46:59.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T09:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105580222607393145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1971234326785425417",
+          "start": 0,
+          "username": "manbuzaisenlin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105580222607393145",
+    "in_reply_to_user_id": "1971234326785425417",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104931426705760482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manbuzaisenlin 蹲蹲喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104931419537768449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTY3-UIbgAEf3xh.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2104931426705760482",
+        "created_at": "2026-10-01T08:46:59.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T09:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105580222607393145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1971234326785425417",
+              "start": 0,
+              "username": "manbuzaisenlin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105580222607393145",
+        "in_reply_to_user_id": "1971234326785425417",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104931426705760482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manbuzaisenlin 蹲蹲喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104931419537768449"
+          ]
+        },
+        "author_id": "1971234326785425417",
+        "conversation_id": "2104931426705760482",
+        "created_at": "2026-09-29T13:48:54.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T14:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104931426705760482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5q0b6YNch",
+              "end": 55,
+              "expanded_url": "https://x.com/manbuzaisenlin/status/2104931426705760482/photo/1",
+              "media_key": "3_2104931419537768449",
+              "start": 32,
+              "url": "https://t.co/O5q0b6YNch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104931426705760482",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104931419537768449"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 786,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "我是乱，这是我二世，转发到50我抽10杯奶茶可以折现20cny https://t.co/O5q0b6YNch"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105580222607393145",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046117898377379840/1776667808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 301,
+          "like_count": 1966,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 585
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T15:24:35.000Z",
+        "description": "",
+        "id": "1971234326785425417",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2105362085156880471",
+        "name": "给我一把左轮手枪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971234326785425417/1759535646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012976137425551361/WRQHdsew_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 30,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "manbuzaisenlin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

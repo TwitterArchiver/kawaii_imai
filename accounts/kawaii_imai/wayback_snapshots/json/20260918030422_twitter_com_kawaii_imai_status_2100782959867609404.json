@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2046117898377379840",
+    "conversation_id": "2100782959867609404",
+    "created_at": "2026-09-18T03:04:22.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T04:04:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100782959867609404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2096919947347939328",
+          "start": 3,
+          "username": "Vavvastd68p"
+        },
+        {
+          "end": 46,
+          "id": "1747805105200480256",
+          "start": 35,
+          "username": "Bestvavvst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100782959867609404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096924097267798301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Vavvastd68p: 我是vavvst「未成年人不要fo」@Bestvavvst \n被奸人举报到我上一个号被封啦\n帮我扩转评论抽1个52r 200fo就抽\n寻回上一世好友 \n同成分也可以互fo（成年）\n欢迎各位小男孩小女孩来和我做朋友 \n我人很好的 不会随意迷j大家…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Bestvavvst].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Bestvavvst",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "Bestvavvst"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1286,
+        "media_key": "3_2096924086148681728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnFWKvaUAA3uAm.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2100782959867609404",
+        "created_at": "2026-09-18T03:04:22.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T04:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100782959867609404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2096919947347939328",
+              "start": 3,
+              "username": "Vavvastd68p"
+            },
+            {
+              "end": 46,
+              "id": "1747805105200480256",
+              "start": 35,
+              "username": "Bestvavvst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100782959867609404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096924097267798301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Vavvastd68p: 我是vavvst「未成年人不要fo」@Bestvavvst \n被奸人举报到我上一个号被封啦\n帮我扩转评论抽1个52r 200fo就抽\n寻回上一世好友 \n同成分也可以互fo（成年）\n欢迎各位小男孩小女孩来和我做朋友 \n我人很好的 不会随意迷j大家…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096924086148681728"
+          ]
+        },
+        "author_id": "2096919947347939328",
+        "conversation_id": "2096924097267798301",
+        "created_at": "2026-09-07T11:30:38.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096924097267798301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1747805105200480256",
+              "start": 18,
+              "username": "Bestvavvst"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5m42NuPuWc",
+              "end": 147,
+              "expanded_url": "https://x.com/Vavvastd68p/status/2096924097267798301/photo/1",
+              "media_key": "3_2096924086148681728",
+              "start": 124,
+              "url": "https://t.co/5m42NuPuWc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096924097267798301",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096924086148681728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1303,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "我是vavvst「未成年人不要fo」@Bestvavvst \n被奸人举报到我上一个号被封啦\n帮我扩转评论抽1个52r 200fo就抽\n寻回上一世好友 \n同成分也可以互fo（成年）\n欢迎各位小男孩小女孩来和我做朋友 \n我人很好的 不会随意迷j大家的 https://t.co/5m42NuPuWc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100782959867609404",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046117898377379840/1776667808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 301,
+          "like_count": 1755,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 547
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T11:15:07.000Z",
+        "description": "最爱的人：@otter_0405\n被奸人举报冻结 \n本人寻回上一世好友中 \nod妹妹可以来和我互fo了 不会迷j你的\n氯胺酮笑气依托米酯「已经戒断」\nSinger🎤 喜欢有纹身穿孔的女孩子 \n性取向双 已婚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "otter_0405"
+              }
+            ]
+          }
+        },
+        "id": "2096919947347939328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100760640076025860",
+        "name": "Vavvast二世「未成年不要fo」",
+        "pinned_tweet_id": "2096924097267798301",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096920279608156160/BadeZbtz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 52,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "Vavvastd68p",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
